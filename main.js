@@ -20,3 +20,10 @@ function backToTop(){
 
 
 
+var typed = new Typed(".auto-type",{
+strings:["Kamogelo"],
+typeSpeed:150,
+backSpeed:150,
+loop:true
+
+})
